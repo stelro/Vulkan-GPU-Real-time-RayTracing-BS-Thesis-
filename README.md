@@ -17,7 +17,7 @@ Some features I would like to add in the near features are:
 * Better anti-aliasing
 
 ![raytraced img](/Screenshots/Screenshot3.png)
-![raytraced img](/Screenshots/Screenshot2.png)
+![raytraced img](/Screenshots/Screenshot1.png)
 ![raytraced img](/Screenshots/Screenshot2.png)
 ![raytraced img](/Screenshots/Screenshot4.png)
 ![raytraced img](/Screenshots/Screenshot5.png)
