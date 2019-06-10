@@ -1,0 +1,11 @@
+set(MATH_SOURCES
+        source/Math/def_vector.hh
+        source/Math/def_vector.inl
+        source/Math/Matrix.hh
+        source/Math/Matrix.cc
+        source/Math/Quaternion.cc
+        source/Math/Quaternion.hh
+        source/Math/MathUtils.hh
+        source/Math/MatrixTransformations.hh
+        source/Math/MatrixTransformations.cc
+        source/Math/Vector.hh)

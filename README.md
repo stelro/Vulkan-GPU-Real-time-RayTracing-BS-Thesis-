@@ -2,8 +2,8 @@
 ---
 #### Thesis title: Implementation of Parallel real-time ray-tracing algorithm 
 
-A parallel progressive path-tracer written in Vulkan API, executing exclusively in Compute Shaders.
-The image is generated as floating-point images in a "ping-pong" arrangement, which then then
+Progressive path-tracer written in Vulkan API, executing exclusively in Compute Shaders.
+The image is generated as floating-point images in a "ping-pong" arrangement, which then
 result is transfered to fragment shader via texture, where it finally rendered to the screen.
 
 The scene is loaded dynamically through JSON files.

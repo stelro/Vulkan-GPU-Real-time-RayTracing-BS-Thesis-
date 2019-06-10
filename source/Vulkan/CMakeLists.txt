@@ -1,0 +1,11 @@
+set(VULKAN_SOURCES
+        source/Vulkan/VulkanBuffer.hh
+        source/Vulkan/VulkanDevice.hh
+        source/Vulkan/VulkanInitializers.hh
+        source/Vulkan/VulkanSwapChain.hh
+        source/Vulkan/VulkanSwapChain.cc
+        source/Vulkan/VulkanTexture.hh
+        source/Vulkan/VulkanTools.cc
+        source/Vulkan/VulkanTools.hh
+        source/Vulkan/VulkanUIOverlay.cc
+        source/Vulkan/VulkanUIOverlay.hh)
